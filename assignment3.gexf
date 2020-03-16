@@ -35,8 +35,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="333.1584" y="-554.833"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-36.774975" y="-189.0804"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="1" label="Partho">
         <attvalues>
@@ -47,8 +47,8 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-636.6913" y="91.06217"></viz:position>
-        <viz:color r="237" g="248" b="251"></viz:color>
+        <viz:position x="-502.53156" y="400.29462"></viz:position>
+        <viz:color r="255" g="255" b="212"></viz:color>
       </node>
       <node id="2" label="Travis">
         <attvalues>
@@ -59,8 +59,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="-280.23956" y="-295.43518"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-187.22478" y="18.273046"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="3" label="Mohamed">
         <attvalues>
@@ -71,8 +71,8 @@
           <attvalue for="eigencentrality" value="0.45107221316083007"></attvalue>
         </attvalues>
         <viz:size value="24.510723"></viz:size>
-        <viz:position x="-205.69992" y="600.0307"></viz:position>
-        <viz:color r="115" g="199" b="172"></viz:color>
+        <viz:position x="306.07043" y="151.64403"></viz:position>
+        <viz:color r="220" g="119" b="28"></viz:color>
       </node>
       <node id="4" label="Sushmita">
         <attvalues>
@@ -83,8 +83,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="263.18884" y="604.1015"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="580.1913" y="214.52692"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="5" label="Rohith">
         <attvalues>
@@ -95,8 +95,8 @@
           <attvalue for="eigencentrality" value="0.2816194956937642"></attvalue>
         </attvalues>
         <viz:size value="22.816195"></viz:size>
-        <viz:position x="-30.421082" y="409.96954"></viz:position>
-        <viz:color r="160" g="217" b="201"></viz:color>
+        <viz:position x="109.5986" y="602.20856"></viz:position>
+        <viz:color r="241" g="140" b="36"></viz:color>
       </node>
       <node id="6" label="Varsha">
         <attvalues>
@@ -107,8 +107,8 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-147.92787" y="-646.2783"></viz:position>
-        <viz:color r="237" g="248" b="251"></viz:color>
+        <viz:position x="-211.89394" y="-607.986"></viz:position>
+        <viz:color r="255" g="255" b="212"></viz:color>
       </node>
       <node id="7" label="Liu">
         <attvalues>
@@ -119,8 +119,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="209.2921" y="391.43323"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-44.066933" y="433.48364"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="8" label="Kshama">
         <attvalues>
@@ -131,8 +131,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="-186.04555" y="-54.035896"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-428.3376" y="-69.29145"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="9" label="Adam">
         <attvalues>
@@ -143,8 +143,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="-420.03412" y="-100.05335"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-644.32153" y="-78.568535"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="10" label="Ashish">
         <attvalues>
@@ -155,8 +155,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="-380.48367" y="132.31108"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-311.7294" y="522.5596"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="11" label="Anand">
         <attvalues>
@@ -167,8 +167,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="605.30707" y="-200.92366"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="493.3911" y="-432.4723"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="12" label="Abdul Kalyaniwala">
         <attvalues>
@@ -179,8 +179,8 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="501.72458" y="-398.1305"></viz:position>
-        <viz:color r="237" g="248" b="251"></viz:color>
+        <viz:position x="37.753418" y="-642.7751"></viz:position>
+        <viz:color r="255" g="255" b="212"></viz:color>
       </node>
       <node id="13" label="laveesh">
         <attvalues>
@@ -191,8 +191,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="144.55775" y="173.38072"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="3.2848935" y="216.20428"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="14" label="srikanth">
         <attvalues>
@@ -203,8 +203,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="380.91025" y="200.1869"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="581.6874" y="-207.62766"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="15" label="Shruti">
         <attvalues>
@@ -215,8 +215,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="-264.87024" y="339.92197"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="638.30334" y="10.239344"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="16" label="Guru">
         <attvalues>
@@ -227,8 +227,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="390.148" y="-27.417036"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="96.545845" y="-407.9183"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="17" label="Kirtus">
         <attvalues>
@@ -239,8 +239,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="462.98706" y="449.21805"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="215.16122" y="353.56796"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="18" label="Rangaraj">
         <attvalues>
@@ -251,8 +251,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="103.51265" y="-636.34015"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="425.2468" y="-32.685135"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="19" label="Ze">
         <attvalues>
@@ -263,8 +263,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="-84.618706" y="-439.18793"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="210.544" y="-151.21194"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="20" label="Manan">
         <attvalues>
@@ -275,8 +275,8 @@
           <attvalue for="eigencentrality" value="0.08647406551431094"></attvalue>
         </attvalues>
         <viz:size value="20.86474"></viz:size>
-        <viz:position x="-425.18" y="504.7434"></viz:position>
-        <viz:color r="213" g="238" b="235"></viz:color>
+        <viz:position x="333.3779" y="559.7028"></viz:position>
+        <viz:color r="254" g="206" b="130" a="0.99607843"></viz:color>
       </node>
       <node id="21" label="Surya">
         <attvalues>
@@ -287,8 +287,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="-527.6998" y="-361.53342"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-418.04636" y="171.38597"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="22" label="Naitik">
         <attvalues>
@@ -299,8 +299,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="166.57278" y="-394.36182"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-231.67018" y="289.00815"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="23" label="Manasa">
         <attvalues>
@@ -311,8 +311,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="-5.5584598" y="-224.93987"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-296.20987" y="-247.07663"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="24" label="Naitik Seth">
         <attvalues>
@@ -323,8 +323,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="602.96814" y="248.90495"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="-144.78903" y="-422.3908"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="25" label="Ashmi">
         <attvalues>
@@ -335,8 +335,8 @@
           <attvalue for="eigencentrality" value="0.2816194956937642"></attvalue>
         </attvalues>
         <viz:size value="22.816195"></viz:size>
-        <viz:position x="-556.2468" y="308.1284"></viz:position>
-        <viz:color r="160" g="217" b="201"></viz:color>
+        <viz:position x="-120.767784" y="635.2357"></viz:position>
+        <viz:color r="241" g="140" b="36"></viz:color>
       </node>
       <node id="26" label="Thara">
         <attvalues>
@@ -347,8 +347,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="-102.29133" y="165.5347"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="468.35342" y="391.75497"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="27" label="Dr.Hsiao">
         <attvalues>
@@ -359,8 +359,8 @@
           <attvalue for="eigencentrality" value="1.0"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="110.61314" y="-41.52999"></viz:position>
-        <viz:color r="0" g="109" b="44"></viz:color>
+        <viz:position x="62.018494" y="7.5934153"></viz:position>
+        <viz:color r="153" g="52" b="4"></viz:color>
       </node>
       <node id="28" label="saloni shah">
         <attvalues>
@@ -371,8 +371,8 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-365.51093" y="-529.79706"></viz:position>
-        <viz:color r="237" g="248" b="251"></viz:color>
+        <viz:position x="-547.0442" y="-296.96524"></viz:position>
+        <viz:color r="255" g="255" b="212"></viz:color>
       </node>
       <node id="29" label="Aloma">
         <attvalues>
@@ -383,8 +383,8 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-640.65283" y="-149.48845"></viz:position>
-        <viz:color r="237" g="248" b="251"></viz:color>
+        <viz:position x="-624.84827" y="173.42908"></viz:position>
+        <viz:color r="255" g="255" b="212"></viz:color>
       </node>
       <node id="30" label="Shubham">
         <attvalues>
@@ -395,8 +395,8 @@
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
         <viz:size value="21.951454"></viz:size>
-        <viz:position x="323.42947" y="-227.8909"></viz:position>
-        <viz:color r="184" g="226" b="216"></viz:color>
+        <viz:position x="273.96936" y="-574.65814"></viz:position>
+        <viz:color r="252" g="151" b="40"></viz:color>
       </node>
       <node id="31" label="Akshay Subramaniam">
         <attvalues>
@@ -407,8 +407,8 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="639.3242" y="18.995827"></viz:position>
-        <viz:color r="237" g="248" b="251"></viz:color>
+        <viz:position x="312.83298" y="-325.43204"></viz:position>
+        <viz:color r="255" g="255" b="212"></viz:color>
       </node>
       <node id="32" label="Chirag">
         <attvalues>
@@ -419,8 +419,8 @@
           <attvalue for="eigencentrality" value="0.08647406551431094"></attvalue>
         </attvalues>
         <viz:size value="20.86474"></viz:size>
-        <viz:position x="22.619482" y="650.6776"></viz:position>
-        <viz:color r="213" g="238" b="235"></viz:color>
+        <viz:position x="-407.6399" y="-472.70425"></viz:position>
+        <viz:color r="254" g="206" b="130" a="0.99607843"></viz:color>
       </node>
     </nodes>
     <edges>
