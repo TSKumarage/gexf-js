@@ -34,7 +34,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-36.774975" y="-189.0804"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -58,7 +58,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-187.22478" y="18.273046"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -70,7 +70,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="eigencentrality" value="0.45107221316083007"></attvalue>
         </attvalues>
-        <viz:size value="24.510723"></viz:size>
+        <viz:size value="65.10722"></viz:size>
         <viz:position x="306.07043" y="151.64403"></viz:position>
         <viz:color r="220" g="119" b="28"></viz:color>
       </node>
@@ -82,7 +82,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="580.1913" y="214.52692"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -94,7 +94,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="eigencentrality" value="0.2816194956937642"></attvalue>
         </attvalues>
-        <viz:size value="22.816195"></viz:size>
+        <viz:size value="48.16195"></viz:size>
         <viz:position x="109.5986" y="602.20856"></viz:position>
         <viz:color r="241" g="140" b="36"></viz:color>
       </node>
@@ -118,7 +118,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-44.066933" y="433.48364"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -130,7 +130,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-428.3376" y="-69.29145"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -142,7 +142,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-644.32153" y="-78.568535"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -154,7 +154,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-311.7294" y="522.5596"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -166,7 +166,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="493.3911" y="-432.4723"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -190,7 +190,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="3.2848935" y="216.20428"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -202,7 +202,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="581.6874" y="-207.62766"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -214,7 +214,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="638.30334" y="10.239344"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -226,7 +226,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="96.545845" y="-407.9183"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -238,7 +238,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="215.16122" y="353.56796"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -250,7 +250,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="425.2468" y="-32.685135"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -262,7 +262,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="210.544" y="-151.21194"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -274,7 +274,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="eigencentrality" value="0.08647406551431094"></attvalue>
         </attvalues>
-        <viz:size value="20.86474"></viz:size>
+        <viz:size value="28.647408"></viz:size>
         <viz:position x="333.3779" y="559.7028"></viz:position>
         <viz:color r="254" g="206" b="130" a="0.99607843"></viz:color>
       </node>
@@ -286,7 +286,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-418.04636" y="171.38597"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -298,7 +298,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-231.67018" y="289.00815"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -310,7 +310,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-296.20987" y="-247.07663"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -322,7 +322,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="-144.78903" y="-422.3908"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -334,7 +334,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="eigencentrality" value="0.2816194956937642"></attvalue>
         </attvalues>
-        <viz:size value="22.816195"></viz:size>
+        <viz:size value="48.16195"></viz:size>
         <viz:position x="-120.767784" y="635.2357"></viz:position>
         <viz:color r="241" g="140" b="36"></viz:color>
       </node>
@@ -346,7 +346,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="468.35342" y="391.75497"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -358,7 +358,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="1.0"></attvalue>
         </attvalues>
-        <viz:size value="30.0"></viz:size>
+        <viz:size value="120.0"></viz:size>
         <viz:position x="62.018494" y="7.5934153"></viz:position>
         <viz:color r="153" g="52" b="4"></viz:color>
       </node>
@@ -394,7 +394,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.19514543017945307"></attvalue>
         </attvalues>
-        <viz:size value="21.951454"></viz:size>
+        <viz:size value="39.51454"></viz:size>
         <viz:position x="273.96936" y="-574.65814"></viz:position>
         <viz:color r="252" g="151" b="40"></viz:color>
       </node>
@@ -418,7 +418,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="eigencentrality" value="0.08647406551431094"></attvalue>
         </attvalues>
-        <viz:size value="20.86474"></viz:size>
+        <viz:size value="28.647408"></viz:size>
         <viz:position x="-407.6399" y="-472.70425"></viz:position>
         <viz:color r="254" g="206" b="130" a="0.99607843"></viz:color>
       </node>
